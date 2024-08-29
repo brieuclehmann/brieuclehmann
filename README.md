@@ -1,14 +1,13 @@
 ### Hi there 👋 I'm Brieuc (pronounced Brio or [bʁijø](http://ipa-reader.xyz/?text=bʁijø&voice=Celine))
 
-🎓 I'm a Lecturer (Assistant Professor) in Statistical Science at University College London.  
+🎓 I'm a Lecturer (Assistant Professor) in Statistical Science at University College London. My main website is [here](https://brieuclehmann.github.io/)
 
 🔭 I’m currently working on statistical methods for:
 - [Health equity](https://www.datascienceforhealthequity.com/themes/statistical-methods)
-- [COVID modelling](https://www.turing.ac.uk/research/research-projects/new-partnership-between-alan-turing-institute-and-royal-statistical)
+- [Treatment effect estimation](https://arxiv.org/abs/2405.20957)
 - [Genetics](https://tskit.dev)
 
 📫 How to reach me:
-- Twitter: [@brieuclehmann](https://twitter.com/BrieucLehmann)
 - Email: b dot lehmann at ucl dot ac dot uk
 
 😄 Pronouns: He / him
