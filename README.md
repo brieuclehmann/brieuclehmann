@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Brieuc (pronounced Brio or [bʁijø](http://ipa-reader.xyz/?text=bʁijø&voice=Celine))
 
-🎓 I'm a Lecturer (Assistant Professor) in Statistical Science at University College London. My main website is [here](https://brieuclehmann.github.io/)
+🎓 I'm a Lecturer (Assistant Professor) in Statistical Science at University College London. My main website is [here](https://brieuclehmann.github.io/).
 
 🔭 I’m currently working on statistical methods for:
 - [Health equity](https://www.datascienceforhealthequity.com/themes/statistical-methods)
